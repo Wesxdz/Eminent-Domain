@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d322c40b45e1ccb49ac3ded5448c8041, type: 3}
+  m_Name: GrowToLarge
+  m_EditorClassIdentifier: 
+  toReplace: {fileID: 21300018, guid: 60ca5adc71436194dad808b2bda1761a, type: 3}
+  replaceWith: {fileID: 21300020, guid: 60ca5adc71436194dad808b2bda1761a, type: 3}
